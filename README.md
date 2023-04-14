@@ -1,2 +1,2 @@
 # JAVA-Generation
-Exercício do Bootcamp da Generation
+Exercícios do Bootcamp da Generation
