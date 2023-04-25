@@ -70,7 +70,7 @@ public class Atv1_Cliente {
 
 
 	public void visualizar() {
-		System.out.println("O cliente "+nomeCliente+" possui o E-mail "+Email+" Seu CPF é "
+		System.out.println("\nO cliente "+nomeCliente+" possui o E-mail "+Email+" Seu CPF é "
 	+CPF+", Sua Data de Nascimento é "+datanasc+" e por fim seu número de telefone "+celular);
 		
 	}
